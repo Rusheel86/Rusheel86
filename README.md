@@ -17,7 +17,7 @@ rusheel = {
     "loves"     : ["Anime", "Chess ♟️", "Formula 1🏎️", "Thriller Novels", "Gym", "Taekwondo 🥋"],
     "chess"     : "RedEgnival @ lichess.org",
     "pronouns"  : "he/him",
-    "fun fact"  : "Black Belt in Taekwondo — yes I will kick bugs out of your code",
+    "fun fact"  : "Black Belt in Taekwondo",
 }
 ```
 
