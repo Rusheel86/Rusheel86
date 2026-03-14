@@ -78,10 +78,12 @@ rusheel = {
 - 🔬 ML research — especially for medical imaging, oncology & real-world healthcare impact
 - 📈 Nifty 50 F&O — options flow, expiry dynamics, institutional analysis
 - 🤖 LLMs, prompt engineering & AI agents
-- ♟️ chess addict — challenge me [@RedEgnival](https://lichess.org/@/RedEgnival) on lichess
-- 🏎️ Formula 1 fan
-- 🎌 everything anime, manga and light novels — sometimes even real books :)
+- ♟️ chess addict — [@RedEgnival](https://lichess.org/@/RedEgnival) on lichess
+- 🏎️ Formula 1 fan, also dipping my toes into MotoGP
 - 🥋 Black Belt Taekwondo
+- 🎌 everything anime, manga and light novels — sometimes even real books :)
+- so systematic I even track it all: [MyAnimeList](https://myanimelist.net/profile/Red_Egnival)
+
 
 ---
 
