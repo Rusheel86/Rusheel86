@@ -39,7 +39,7 @@ rusheel = {
 
 ### 🏥 highlight projects
 
-**Spinal Cord Shift Prediction** — 3D CNN built with Nanavati Hospital to quantify spinal cord shifts during radiotherapy using real patient volumetric data. Helps radiation oncologists minimise damage to healthy tissue.
+**Spinal Cord Shift Prediction** — 3D CNN built with Nanavati Hospital to quantify spinal cord shifts during radiotherapy using real patient volumetric data.
 
 **[dicom-meta-lite](https://pypi.org/project/dicom-meta-lite)** — lightweight Python package for rapid DICOM metadata extraction, built for medical imaging and oncology research workflows. Available on PyPI.
 
