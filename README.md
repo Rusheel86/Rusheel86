@@ -13,7 +13,7 @@
 ```python
 rusheel = {
     "focus"     : ["ML research", "medical imaging", "oncology", "time series", "LLMs"],
-    "currently" : "ESOC OSS contributor + AI intern + drifting through college",
+    "currently" : "OSS contributor + Researching + drifting through college",
     "loves"     : ["Anime", "Chess ♟️", "Formula 1🏎️", "Thriller Novels", "Gym", "Taekwondo 🥋"],
     "chess"     : "RedEgnival @ lichess.org",
     "pronouns"  : "he/him",
