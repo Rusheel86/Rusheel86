@@ -32,6 +32,7 @@ rusheel = {
 | sktime/skpro | [skpro](https://github.com/sktime/skpro) | 🔄 active |
 | Project MONAI | [MONAI](https://github.com/Project-MONAI/MONAI) | 🔄 active |
 | deepinv | [deepinv](https://github.com/deepinv/deepinv) | 🔄 active |
+| gc-os-ai/pyaptamer | [pyaptamer](https://github.com/gc-os-ai/pyaptamer) | 🔄 active |
 
 <!-- add rows here as you get more merged PRs ↑ -->
 
