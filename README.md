@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=hey+i'm+rusheel+%F0%9F%91%8B;ml+engineer+%7C+open+source+dev;living+my+life+while+dreaming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+I'm+Rusheel+%F0%9F%91%8B;ML+engineer/researcher+%7C+open+source+dev;living+my+life+while+dreaming)](https://git.io/typing-svg)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rusheel86.Rusheel86&style=flat&color=6E40C9)
 
