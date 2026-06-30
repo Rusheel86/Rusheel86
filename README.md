@@ -23,16 +23,7 @@ rusheel = {
 
 ---
 
-### 🔬 open source contributions
 
-| org | repo | status |
-|-----|------|--------|
-| InVesalius | [invesalius3](https://github.com/invesalius/invesalius3) | ✅ 1 merged PR · 🔄 active |
-| sktime | [sktime](https://github.com/sktime/sktime) | 🔄 active |
-| sktime/skpro | [skpro](https://github.com/sktime/skpro) | 🔄 active |
-| Project MONAI | [MONAI](https://github.com/Project-MONAI/MONAI) | 🔄 active |
-| deepinv | [deepinv](https://github.com/deepinv/deepinv) | 🔄 active |
-| gc-os-ai/pyaptamer | [pyaptamer](https://github.com/gc-os-ai/pyaptamer) | 🔄 active |
 
 <!-- add rows here as you get more merged PRs ↑ -->
 
@@ -43,6 +34,8 @@ rusheel = {
 **Spinal Cord Shift Prediction** — 3D CNN-LSTM built with Nanavati Hospital to segment and quantify spinal cord shifts during radiotherapy using real HNC patient volumetric data.
 
 **[dicom-meta-lite](https://pypi.org/project/dicom-meta-lite)** — lightweight Python package for rapid DICOM metadata extraction, built for medical imaging and oncology research workflows. Available on PyPI.
+
+**[Chaos Economy](https://github.com/manan-tech/Chaos-Economy)** - AMD Hackathon GRAND PRIZE, Multi-agent RL sim: 4 traders, market maker & SEC regulator trained via GRPO on Llama-3.2. 250 steps of emergent financial crisis — slaughter, adaptation, collusion, regulatory oversight — no scripts, just learned behavior. Our 3B LoRA (250 training steps) beats Nemotron 120B on PnL (+13.68 vs +7.18) and beats every other model tested. The MI300X's 192GB HBM3 made full BF16 training possible without quantization — no dequantization overhead, no 4-bit gradient degradation. That precision advantage is why a 3B trained on AMD outperforms 7B, 8B, 30B, and even 120B baselines running on NVIDIA-optimized inference. 
 
 ---
 
@@ -77,8 +70,8 @@ rusheel = {
 ### ⚡ interests
 
 - 🔬 ML research — especially for medical imaging, oncology & real-world healthcare impact
-- 📈 Nifty 50 F&O — options flow, expiry dynamics, institutional analysis
-- 🤖 LLMs, prompt engineering & AI agents
+- 📈 Financial MArkets — options flow, expiry dynamics, institutional analysis
+- 🤖 LLMs, TRL, deep learning & AI agents
 - ♟️ chess addict — [@RedEgnival](https://lichess.org/@/RedEgnival) on lichess
 - 🏎️ Formula 1 fan, also dipping my toes into MotoGP
 - 🥋 Black Belt Taekwondo
